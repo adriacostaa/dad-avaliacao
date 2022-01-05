@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Django</h1>
+<h1 align="center">Primeira Aplicação</h1>
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
